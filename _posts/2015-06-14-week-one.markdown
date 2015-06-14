@@ -4,24 +4,24 @@ title:  "week one"
 date:   2015-06-14
 ---
 
-I was really worried that I was going to graduate to University of Texas with a degree in computer science without taking the software engineering course taught by Glenn Downing. I have heard tons of good things about that course from my peers in the department. The opportunity presented itself to take this class during the Summer of 2015 and I jumped at the chance. A week has gone by and now it's time to reflect and give you some of my thoughts regarding the course structure. 
+I was really worried that I was going to graduate from the University of Texas with a degree in computer science without taking the software engineering course taught by Glenn Downing. I've heard many good things about this course from my peers in the department. The opportunity presented itself to take this class during the Summer of 2015 and I jumped at the chance. A week has gone by and now it's time to reflect and share my thoughts regarding the course. 
 
-I have been fortunate enough to be a part of three internships, so I have learned lots of important concepts such as integration systems, version control systems, unit and functional testing just to name a few! A lot of the material that we covered during this first week reminded me of my time during these internships and how easier they would've been had I taken this course first, remember I have only been through a week of this class and already I see the huge benefits this class provides. There are some concepts that he has covered that I was forced to learn on my own, and I'm really excited and glad I get to go back and solidify my understanding of these concepts which I'm sure will make me a better programmer. 
+I have been fortunate enough to be a part of three internships so I have learned important concepts such as continuous integration systems, version control systems, unit and functional testing just to name a few. The material that we covered during this first week reminded me of my time during these internships and how easier they would've been had I taken this course first. I have only been through a week of this class and already I see the huge benefits this class will provide. The concepts that were covered and will be exercised during project one I was forced to learn on my own, I'm really glad I get to go back and solidify my understanding of these concepts. 
 
-Another thing that I really appreciate is the teaching style of Mr. Downing. I have never been a part of a class in which the material is taught in a way that makes it easily digestible and understandable. Or maybe it is just that I am forced to pay attention to hundred percent of the time because the instructor calls on people at random throughout the lecture and asks a question. Whatever the reason maybe, I always know what is going on and understand the material, unlike other courses where I have to go back, review my notes and read the book to understand the material. 
+One thing that I really appreciate is the teaching style of Professor Downing. I have never been a part of a class in which the material is taught in a way that makes it so easily digestible and understandable. Can you teach Algorithms please Professor Downing?
 
-I am really excited about the opportunity to learn python. Python a programming language that I have been really wanting to learn for a long time now but never really had the chance. I also heard that we will be using the Django web framework and I'm curious to see how it compares to the Rails framework as I'm really familiar with that. I really think that this course is going to solidify a lot of concerts that I've been exposed to in my internships and I'm really looking forward to that.
+The thing that I am most excited about is learning python. Python is a programming language that I have been really wanting to learn for a long time now but never really had the time. I also heard that we will be using the Django web framework and I'm curious to see how it compares to the Rails framework. I really think that this course is going to solidify a lot of concepts that I've been exposed to in my internships.
 
 {% highlight text %}
 
 Tip of the week:
 
-In the terminal (Unix), after you type the few characters to search, 
-you can press CTRL+R to browse through the history that matches what you typed. 
-This has been extremely useful for me in my internships. 
-Note: it will be limited to your usage history.
+In the terminal (Unix), after you type a few characters, 
+you can press CTRL+R to search through your command history.
+Keep pressinng CTRL+R to go on to the next search hit.
+This has been extremely useful for me in my internships.
 
 {% endhighlight %}
 
-Word count: 466
+Word count: 374
 
