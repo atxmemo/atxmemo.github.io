@@ -4,7 +4,7 @@ title:  "week one"
 date:   2015-06-14
 ---
 
-I was really worried that I was going to graduate from the University of Texas with a degree in Computer Science without taking the software engineering course taught by Glenn Downing. I've heard many good things about this course from my peers in the department. The opportunity presented itself to take this class during the Summer of 2015 and I jumped at the chance. A week has gone by and now it's time to reflect and share my thoughts regarding the course. 
+I was really worried that I was going to graduate from the University of Texas with a degree in Computer Science without taking the Software Engineering course taught by Glenn Downing. I've heard many good things about this course from my peers in the department. The opportunity presented itself to take this class during the Summer of 2015 and I jumped at the chance. A week has gone by and now it's time to reflect and share my thoughts regarding the course. 
 
 I have been fortunate enough to be a part of three internships so I have learned important concepts such as continuous integration systems, version control systems, unit and functional testing just to name a few. The material that we covered during this first week reminded me of my time during these internships and how easier they would've been had I taken this course first. I have only been through a week of this class and already I see the huge benefits this class will provide. The concepts that were covered and will be exercised during project one I was forced to learn on my own, I'm really glad I get to go back and solidify my understanding of these concepts. 
 
