@@ -16,7 +16,7 @@ The thing that I am most excited about is learning python. Python is a programmi
 
 Tip of the week:
 
-In the terminal (Unix), after you type a few characters, 
+In the terminal, after you type a few characters, 
 you can press CTRL+R to search through your command history.
 Keep pressinng CTRL+R to go on to the next search hit.
 This has been extremely useful for me in my internships.
