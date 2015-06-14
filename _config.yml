@@ -1,0 +1,10 @@
+# Site settings
+title: 'CS373 Summer 2015: Guillermo Terrazas'
+email: 'gterra023@utexas.edu'
+description: 'This blog documents my experiences while taking the Software Engineering course during the Summer of 2015 at The University of Texas at Austin, taught by Glenn Downing.'
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  atxmemo
+
+# Build settings
+markdown: kramdown
