@@ -18,7 +18,7 @@ header-img: "img/home.png"
                 <br>
                 <li>The ancient Romans were something special. Although the exact foundations of Rome itself remain shrouded in myth (it is claimed the founder of Rome and his twin brother were raised by a she-wolf), the fact remains that these people went from a scrappy village in mid-western Italy to one of the most powerful empires the world has ever seen. At the height of their power in 117 AD, they controlled all of Italy, Europe, half of the Britsh Island, Northern Africa, and half of modern day Turkey. They somehow managed to make all of this work despite their communication network consisting of ships and horses. So yea, they were badass.</li>
                 <br>
-                <li>I'd like to visit the Theater of Pompey in particular because this is were Julius Caesar was assassinated by a pack of Senators who feared Caesar was becoming to powerful. If you have not read up on this guy you totally should, he did some amazing things! For example, after defeating Pharnaces II of The Kingdom of Pontus, Caesar wrote a letter to the Senate summarizing the victory as "Veni, vidi, vici", Latin for "I came; I saw; I conquered". Not to mention the time he knowingly crossed the Rubicon River without laying down command of his troops, effectively igniting a Civil War in Rome. This guy was something else.  </li>
+                <li>I'd like to visit the Theater of Pompey in particular because this is where Julius Caesar was assassinated by a group of Senators with a different political agenda. If you have not read up on this guy you totally should, he did some amazing things! For example, after defeating Pharnaces II of The Kingdom of Pontus, Caesar wrote a letter to the Senate summarizing the victory as "Veni, vidi, vici", Latin for "I came; I saw; I conquered". Not to mention the time he knowingly crossed the Rubicon River without laying down command of his troops, effectively igniting a Civil War in Rome. This guy was something else.  </li>
                 <br>
                 <li>Interesting tidbit: Latin had a hard "K" sound for "C" and the ae aesc sounded like "eye," so the original pronunciation of "Caesar" sounded like "Kaiser."</li>
             
@@ -39,7 +39,7 @@ header-img: "img/home.png"
 
 <p>Currently, I can only afford to go to two places each year for about a week. It's not much, but it is something. Anyhow, by the time I am 30 that adds up to 20 trips across the world!</p>
 
-<p>I will be making my first trip to Banff National Park, Canada the second week of August 2015. Banff is Canada's first national park and the world's third. It is one of the Top 10 National Parks in the world.</p>
+<p>I will be making my first trip to Banff National Park, Canada the second week of August 2015. Banff is Canada's first national park and the world's third. It is one of the Top 10 National Parks in the world. I'll be posting about that soon :)</p>
 
 <p>I'll make a post for each of the destinations that I visit with some history behind it, why I chose the place, some photos, recommendations and other tidbits I find worth mentioning.</p>
 
