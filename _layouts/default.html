@@ -1,24 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <img>
+<body>
 
-    {% include header.html %}
+    {% include nav.html %}
 
-    <img id="profile_pic" src="/img/atxmemo.png">
-
-    <div class="posts">
-      <div class="page-content">
-        <div class="wrapper">
-          {{ content }}
-        </div>
-      </div>
-    </div>
+    {{ content }}
 
     {% include footer.html %}
 
-  </body>
+</body>
 
 </html>

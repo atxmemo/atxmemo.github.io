@@ -1,10 +1,16 @@
 # Site settings
-title: 'CS373 Summer 2015: Guillermo Terrazas'
-email: 'gterra023@utexas.edu'
-description: 'This blog documents my experiences while taking the Software Engineering course during the Summer of 2015 at The University of Texas at Austin, taught by Glenn Downing.'
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+title: Let's go places!
+header-img: img/home.png
+email: guillermot@spiceworks.com
+description: "Every human has a finite number of heartbeats. I don't intend to waste any of mine."
+baseurl: ""
+url: "http://yourdomain.com"
 github_username:  atxmemo
+facebook_username:  guillermo.terrazas.7
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
