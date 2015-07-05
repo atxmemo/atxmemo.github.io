@@ -31,14 +31,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-07-04-here-goes-everything.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-07-04-here-goes-everything.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-07-04-here-goes-everything.markdown">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75951904">
+            <state vertical-scroll-proportion="-21.206896">
               <caret line="41" column="232" selection-start-line="41" selection-start-column="232" selection-end-line="41" selection-end-column="232" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ru" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.ru">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.029940119">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -96,6 +116,7 @@
         <option value="$PROJECT_DIR$/css/clean-blog.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2015-07-04-here-goes-everything.markdown" />
+        <option value="$PROJECT_DIR$/config.ru" />
       </list>
     </option>
   </component>
@@ -359,14 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6845238">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125">
@@ -404,8 +417,24 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75951904">
+        <state vertical-scroll-proportion="-21.206896">
           <caret line="41" column="232" selection-start-line="41" selection-start-column="232" selection-end-line="41" selection-end-column="232" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029940119">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           <folding />
         </state>
       </provider>
