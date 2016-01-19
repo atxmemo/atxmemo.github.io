@@ -67,7 +67,7 @@ header-img: "img/banff/banff-12.jpg"
 </a>
 <span class="caption text-muted">Ice skating on frozen Lake Louise! Notice the ice castle on the right.</span>
 
-<p>The next day I left my hotel and headed down to Banff to checkout the Hot Springs. The pool is fed from a nearby spring and heated to a warm 100 F. Across from the pool you can see across a valley towards the snow covered Mount Rundle. It felt so good to immerse myself in the warm water because I had experienced nothing but freezing cold the last couple of days.<p>
+<p>The next day I left my hotel and headed down to Banff to checkout the Hot Springs. The pool is fed from a nearby spring and heated to a warm 100 F. Across from the pool you can see a valley and a snow covered Mount Rundle. It felt so good to immerse myself in the warm water because I had experienced nothing but freezing cold the last couple of days.<p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/banff/banff-10.jpg" style=" position: relative; left: 47px;">
