@@ -12,7 +12,7 @@ header-img: "img/banff/banff-15.jpg"
 
 <p>I was terrified when I drove out of the airport in Calgary. I had never been alone in a different country so far away from what I knew and what I was comfortable with. I started thinking of all the different things that could go wrong with me so far away from home and questioned if stepping so far away from my comfort zone was a good idea.<p>
 
-<p>I thought about a quote by Melaina Rayne, which goes like this:  "No matter how scary the road ahead may seem, never be afraid to chase your dreams." It is one of my favorite quotes that I thought about throughout college so that helped me calm down. I wanted to see Banff for myself, I had wanted this for so long and it was finally happening! <p>
+<p>I thought about a quote by Melaina Rayne, which goes like this:  "No matter how scary the road ahead may seem, never be afraid to chase your dreams." It is one of my favorite quotes that I thought about throughout college so that helped me calm down. I wanted to see Banff for myself, I had dreamed of this for so long and it was finally happening! <p>
 
 <p>My first day in Banff I spent skiing in the Lake Louise Skii Resort. There are three major skii resorts in this area, but Lake Louise Resort was voted best skii resort in Canada of 2015 (3rd year in a row they win it) so I thought I should check that one out.<p>
 <p>I had always wanted to skii but Texas is simply not the place for it. I booked some private lessons and waited for my instructor to show and when she was 20 minutes late I went back to the front desk and asked what the deal was. Turns out they booked me with a girl who was not working that day. To make it up they offered to give me 2 extra hours for free! Which is great because skii lessons are EXPENSIVE.<p>
@@ -76,11 +76,11 @@ header-img: "img/banff/banff-15.jpg"
 
 <p>I met a dude there named Kim and we talked for a long time. He was from Calgary so he knew a lot about the area and I took that to my advantage and quizzed him for a while asking about all sorts of things about Banff.<p>
 
-<p>I then headed down to downtown Banff and explored all the little shops they have. I then found a nice coffee shop, where I am writing these very words now. Tomorrow morning I will take a plane back to home.<p>
+<p>After my skin started to turn really wrinkly because of the warm water I left the hot springs and went to downtown Banff and explored all the little shops they have. I then found a nice coffee shop, where I am writing these very words now. Tomorrow morning I will take a plane back to home.<p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/banff/banff-11.jpg" style=" position: relative; left: 47px;">
 </a>
 <span class="caption text-muted">Downtown Banff, Alberta Canada</span>
 
-<p> So that is it, the end of my first travel experience. More than anything I wanted to prove to myself that I could do it, that I could travel, learn, experience and explore. I did. Next up is the Grand Canyon and Antelope Canyon in Arizona.<p>
+<p> So that is it, the end of my first travel experience. This trip was really special to me, I had never experienced such beautiful natural scenery. More than anything I wanted to prove to myself that I could do it, that I could travel, learn, experience and explore. I did it :) Next up on my list is the Grand Canyon and Antelope Canyon in Arizona.<p>
