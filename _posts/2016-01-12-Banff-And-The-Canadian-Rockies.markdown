@@ -17,17 +17,17 @@ header-img: "img/banff/banff-12.jpg"
 <p>My first day in Banff I spent skiing in the Lake Louise Skii Resort. There are three major skii resorts in this area, but Lake Louise Resort was voted best skii resort in Canada of 2015 (3rd year in a row they win it) so I thought I should check that one out.<p>
 <p>I had always wanted to skii but Texas is simply not the place for it. I booked some private lessons and waited for my instructor to show and when she was 20 minutes late I went back to the front desk and asked what the deal was. Turns out they booked me with a girl who was not working that day. To make it up they offered to give me 2 extra hours for free! Which is great because skii lessons are EXPENSIVE.<p>
 
-<p>They assigned me another instructor, his name was Josh and he was from England. Josh was cool, he seemed genuinely interested in making sure I learned to skii with good technique.<p>
+<p>They assigned me another instructor, his name was Josh and he was from England. Josh was cool and he seemed genuinely interested in making sure I learned to skii with good technique.<p>
 
-<p>After about an hour in the bunny hill (skii term for beginners hill) Josh thought I was ready to take on the mountain because of how quickly I picked up skiing. My athletic background made me feel very confident in the skiis.<p>
+<p>After about an hour in the bunny hill (skii term for beginners hill) Josh thought I was ready to take on the mountain because of how quickly I picked up skiing. My athletic background made me feel very confident in the skiis right from the start!<p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/banff/banff-5.jpg" style=" position: relative; left: 47px;">
 </a>
 <span class="caption text-muted">Josh and I going up the mountain in the chair lift.</span>
 
-<p>I had not fallen once in the bunny hill, so that gave me a huge confidence boost. Up in the mountain though, things got scary VERY quickly and looking back, I was quite naiive to feel so confident in my skii "skills". I remember picking up speed and not being able to stop and thinking to myself the words my Father told me before I left which were, ahem, very blunt; "You have never done that (skii) before, please be careful and don't fuck it up for yourself."<p>
-<p>I flew into the snow after my inability to control the skiis finally caught up tpo me, I fell really hard but luckily did not break anything. Josh said that was "gnarly" and that he was surprised I did not break anything (thanks I guess?) I think subconsciously I was in shock because after that I fell a dozen even on very simple turns I had mastered earlier.<p>
+<p>I had not fallen once in the bunny hill, so that gave me a huge confidence boost. Up in the mountain though, things got scary VERY quickly and looking back, I was quite naive to feel so confident in my skii "skills". I remember picking up speed and not being able to stop and thinking to myself the words my Father told me before I left which were, ahem, very blunt; "You have never done that (skii) before, please be careful and don't fuck it up for yourself."<p>
+<p>I flew into the snow after my inability to control the skiis at high speeds caught up to me, I fell really hard but luckily stood up and everything felt alright. Josh said that was "gnarly" and that he was surprised I did not break anything (thanks I guess?) I think subconsciously I was in shock because after that I fell a dozen times on very simple turns I had mastered earlier.<p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/banff/banff-9.jpg" style=" position: relative; left: 47px;">
@@ -45,7 +45,7 @@ header-img: "img/banff/banff-12.jpg"
 </a>
 <span class="caption text-muted">Lake Louise</span>
 
-<p>The next day I went to Lake Louise, which is a lake in the valley between two beautiful mountains right across from the Lake Louise Skii Resort. There is a hotel in the shoreline called the Fairmont Hotel and it is really fancy. The hotel was first conceived by the railway business at the end of the 19th century, as a vacation destination to lure travellers and railroad workers. <p>
+<p>The next day I went to Lake Louise, which is a lake in the valley between two beautiful mountains right across from the Lake Louise Skii Resort. There is a hotel in the shoreline called the Fairmont Hotel and it is really fancy. The hotel was first conceived by the railway business at the end of the 19th century as a vacation destination to lure travelers and railroad workers. <p>
 <p>It is so cold in the winter months that the Lake completely freezes over, so you can walk across it and even ice skate on it.<p>
 
 <a href="#">
@@ -67,7 +67,7 @@ header-img: "img/banff/banff-12.jpg"
 </a>
 <span class="caption text-muted">Ice skating on frozen Lake Louise! Notice the ice castle on the right.</span>
 
-<p>The next day I left my hotel and headed down to Banff to checkout the Hot Springs. The pool is fed from a nearby spring and heated to a warm 100 F. Across from the pool you can see across a valley towards the snow covered Mount Rundle. It felt so good to immerse myself in the warm water, having experienced nothing but cold the last couple of days.<p>
+<p>The next day I left my hotel and headed down to Banff to checkout the Hot Springs. The pool is fed from a nearby spring and heated to a warm 100 F. Across from the pool you can see across a valley towards the snow covered Mount Rundle. It felt so good to immerse myself in the warm water because I had experienced nothing but freezing cold the last couple of days.<p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/banff/banff-10.jpg" style=" position: relative; left: 47px;">
@@ -83,4 +83,4 @@ header-img: "img/banff/banff-12.jpg"
 </a>
 <span class="caption text-muted">Downtown Banff, Alberta Canada</span>
 
-<p> So that is it, the end of my first travel experience. More than anything, I wanted to prove to myself that I could do it, that I could travel, learn, experience and explore. I did. Next up, the Grand Canyon and Antelope Canyon in Arizona.<p>
+<p> So that is it, the end of my first travel experience. More than anything I wanted to prove to myself that I could do it, that I could travel, learn, experience and explore. I did. Next up is the Grand Canyon and Antelope Canyon in Arizona.<p>
