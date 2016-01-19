@@ -3,7 +3,7 @@ layout:     post
 title:      "Banff and the Canadian Rockies!"
 date:       2016-01-12 12:00:00
 author:     "Memo"
-header-img: "img/banff/banff-12.jpg"
+header-img: "img/banff/banff-15.jpg"
 ---
 
 <p>I was initially supposed to visit Banff and the Canadian Rockies last August before my last semester of college. As it turns out though, my passport allowed me to enter Canada through land and water only and not air (seriously) so I was forced to cancel my trip. I rescheduled it to mid January and now, here I am to tell you all about it.</p>
@@ -41,7 +41,7 @@ header-img: "img/banff/banff-12.jpg"
 <p>Josh and I had lunch and he told me all about his travels to Australia (which included sky diving and snorkeling in the Great Barrier reef) and we became good friends, he ended up giving me his business card asking me to send him pictures of places I visit. Josh is the first friend I make in my travels, I will definitely keep in touch.<p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/banff/banff-4.jpg" style=" position: relative; left: 47px;">
+    <img src="{{ site.baseurl }}/img/banff/banff-14.jpg" style=" position: relative; left: 47px;">
 </a>
 <span class="caption text-muted">Lake Louise</span>
 
